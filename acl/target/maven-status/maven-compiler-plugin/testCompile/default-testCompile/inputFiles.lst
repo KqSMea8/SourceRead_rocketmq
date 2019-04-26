@@ -1,0 +1,7 @@
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/acl/src/test/java/org/apache/rocketmq/acl/plain/PlainAccessValidatorTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/acl/src/test/java/org/apache/rocketmq/acl/common/SessionCredentialsTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/acl/src/test/java/org/apache/rocketmq/acl/plain/RemoteAddressStrategyTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/acl/src/test/java/org/apache/rocketmq/acl/common/AclSignerTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/acl/src/test/java/org/apache/rocketmq/acl/plain/PlainPermissionLoaderTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/acl/src/test/java/org/apache/rocketmq/acl/common/PermissionTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/acl/src/test/java/org/apache/rocketmq/acl/common/AclUtilsTest.java

@@ -1,0 +1,7 @@
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/namesrv/src/test/java/org/apache/rocketmq/namesrv/processor/ClusterTestRequestProcessorTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/namesrv/src/test/java/org/apache/rocketmq/namesrv/processor/DefaultRequestProcessorTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/namesrv/src/test/java/org/apache/rocketmq/namesrv/routeinfo/RouteInfoManagerTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/namesrv/src/test/java/org/apache/rocketmq/namesrv/routeinfo/BrokerHousekeepingServiceTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/namesrv/src/test/java/org/apache/rocketmq/namesrv/kvconfig/KVConfigSerializeWrapperTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/namesrv/src/test/java/org/apache/rocketmq/namesrv/kvconfig/KVConfigManagerTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/namesrv/src/test/java/org/apache/rocketmq/namesrv/NameServerInstanceTest.java

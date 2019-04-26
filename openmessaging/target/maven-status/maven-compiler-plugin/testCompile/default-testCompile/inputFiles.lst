@@ -1,0 +1,6 @@
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/openmessaging/src/test/java/io/openmessaging/rocketmq/consumer/PullConsumerImplTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/openmessaging/src/test/java/io/openmessaging/rocketmq/utils/BeanUtilsTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/openmessaging/src/test/java/io/openmessaging/rocketmq/promise/DefaultPromiseTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/openmessaging/src/test/java/io/openmessaging/rocketmq/producer/ProducerImplTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/openmessaging/src/test/java/io/openmessaging/rocketmq/consumer/LocalMessageCacheTest.java
+/Users/liberxue/Documents/Code/java/rocketmq-rocketmq-all-4.5.0/openmessaging/src/test/java/io/openmessaging/rocketmq/consumer/PushConsumerImplTest.java
